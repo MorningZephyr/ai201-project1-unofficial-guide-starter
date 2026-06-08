@@ -10,25 +10,6 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-https://www.ratemyprofessors.com/professor/1823870
-
-https://www.ratemyprofessors.com/professor/926045
-
-https://www.ratemyprofessors.com/professor/2634841
-
-https://www.ratemyprofessors.com/professor/2505090
-
-https://www.ratemyprofessors.com/professor/2220139
-
-https://www.ratemyprofessors.com/professor/2674099
-
-https://www.ratemyprofessors.com/professor/192300
-
-https://www.ratemyprofessors.com/professor/2259095
-
-https://www.ratemyprofessors.com/professor/2659561
-
-https://www.ratemyprofessors.com/professor/3066287
 
 These domains are various student reviews of the CS professors at Hunter College. Without these domain, it's hard to grasp the difficulty of these professors, which is a crucial feedback for students when choosing their professors
 ---
@@ -40,16 +21,16 @@ These domains are various student reviews of the CS professors at Hunter College
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RateMyProfessors — Prof. (ID 1823870) | Student review of Professor | https://www.ratemyprofessors.com/professor/1823870
+| 2 | RateMyProfessors — Prof. (ID 926045) | Student review of Professor | https://www.ratemyprofessors.com/professor/926045
+| 3 | RateMyProfessors — Prof. (ID 2634841) | Student review of Professor | https://www.ratemyprofessors.com/professor/2634841
+| 4 | RateMyProfessors — Prof. (ID 2505090) | Student review of Professor | https://www.ratemyprofessors.com/professor/2505090
+| 5 | RateMyProfessors — Prof. (ID 2220139) | Student review of Professor | https://www.ratemyprofessors.com/professor/2220139
+| 6 | RateMyProfessors — Prof. (ID 2674099) | Student review of Professor | https://www.ratemyprofessors.com/professor/2674099
+| 7 | RateMyProfessors — Prof. (ID 192300) | Student review of Professor | https://www.ratemyprofessors.com/professor/192300
+| 8 | RateMyProfessors — Prof. (ID 2259095) | Student review of Professor | https://www.ratemyprofessors.com/professor/2259095
+| 9 | RateMyProfessors — Prof. (ID 2659561) | Student review of Professor | https://www.ratemyprofessors.com/professor/2659561
+| 10 | RateMyProfessors — Prof. (ID 3066287) | Student review of Professor | https://www.ratemyprofessors.com/professor/3066287
 
 ---
 
