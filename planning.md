@@ -10,7 +10,27 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+https://www.ratemyprofessors.com/professor/1823870
 
+https://www.ratemyprofessors.com/professor/926045
+
+https://www.ratemyprofessors.com/professor/2634841
+
+https://www.ratemyprofessors.com/professor/2505090
+
+https://www.ratemyprofessors.com/professor/2220139
+
+https://www.ratemyprofessors.com/professor/2674099
+
+https://www.ratemyprofessors.com/professor/192300
+
+https://www.ratemyprofessors.com/professor/2259095
+
+https://www.ratemyprofessors.com/professor/2659561
+
+https://www.ratemyprofessors.com/professor/3066287
+
+These domains are various student reviews of the CS professors at Hunter College. Without these domain, it's hard to grasp the difficulty of these professors, which is a crucial feedback for students when choosing their professors
 ---
 
 ## Documents
