@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Generated pipeline artifacts (rebuilt by ingest.py / embed.py)
+chunks.json
+
 # macOS
 .DS_Store
