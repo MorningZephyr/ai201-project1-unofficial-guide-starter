@@ -1,0 +1,24 @@
+Professor: Tong Yi
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 2634841)
+Overall Quality: 2.2/5 (123 ratings) | Would take again: 28% | Level of Difficulty: 3.9
+
+Review 1
+Course: CS13500 | Date: May 28, 2026 | Quality: 1.0 | Difficulty: 4.0 | Attendance: Mandatory | Grade: C | Textbook: Yes | Tags: Tough grader, Lots of homework
+The professor is a tough grader.
+
+Review 2
+Course: CS13500 | Date: April 30, 2026 | Quality: 1.0 | Difficulty: 3.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Tags: Lecture heavy, Test heavy, Graded by few things
+It's frustrating to struggle in an introductory course not because the material is too hard, but because it's difficult to understand how it's being taught. Many students don't have English as a first language, and there should be more effort to make the material clear and accessible for everyone.
+
+Review 3
+Course: CS13500 | Date: August 28, 2025 | Quality: 2.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Mandatory | Grade: A | Textbook: Yes
+Tong Yi is a really nice and kind professor but her class was challenging. Her accent is hard to understand so lectures were pretty useless. Difficulty and lecture in class don't reflect the assignments and projects, which are much harder. Attend recitations, go to tutoring, and study past exams a lot if you want to pass.
+
+Review 4
+Course: CS135 | Date: August 26, 2025 | Quality: 1.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Grade: A | Textbook: Yes | Tags: Tough grader, Lecture heavy
+You cannot understand her lectures easily. The only good part was the material she put online. People complain about the final but she posted the last 3 years of finals.
+
+Review 5
+Course: CS13500 | Date: July 23, 2025 | Quality: 1.0 | Difficulty: 2.0 | For Credit: Yes | Attendance: Mandatory | Grade: A-
+Can't understand her; the only reason I passed was because I went to tutoring.

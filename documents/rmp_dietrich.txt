@@ -1,0 +1,24 @@
+Professor: Sven Dietrich
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 2674099)
+Overall Quality: 1.2/5 (38 ratings) | Would take again: 6% | Level of Difficulty: 4.5
+
+Review 1
+Course: CSCI340 | Date: January 12, 2026 | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Textbook: Yes | Tags: Beware of pop quizzes
+This guy is a straight up menace. His pop quizzes test the most random stuff, his exams have niche questions from a movie you were supposed to watch 2 months ago, and he takes himself way too seriously. He made separate exams for each student and only allowed pen. His lectures were so boring, and I self studied everything. He does give a good curve.
+
+Review 2
+Course: CSCI340 | Date: December 29, 2025 | Quality: 1.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Not Mandatory | Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+He hasn't released final grades even though the deadline was the 26th.
+
+Review 3
+Course: CSCI340 | Date: December 24, 2025 | Quality: 1.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Not Mandatory | Tags: Get ready to read, Beware of pop quizzes
+You will self-study. His lectures are mostly just reading slides. He also has multiple-choice quizzes that can be multiple-answer with no indication and no partial credit. The final exam day was ridiculous: he made us use pens, assigned seating, and printed individual tests for each person.
+
+Review 4
+Course: CSCI49381 | Date: December 22, 2025 | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: B | Textbook: Yes | Tags: Tough grader, Beware of pop quizzes
+This guy is the absolute worst. On his tests he asks you to remember stuff from random movies from 2 months ago that have nothing to do with the class. He's also very rude and takes himself way too seriously. He has a serious ego problem, and on top of all that he has boring lectures too. Avoid.
+
+Review 5
+Course: CSCI49381 | Date: December 19, 2025 | Quality: 2.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Not Mandatory | Textbook: Yes | Tags: Tough grader, Group projects, Beware of pop quizzes
+The class is fun (security) but he does not give clear instructions and grades extremely harshly. Took this class while also taking him for Operating Systems. He gives pop quizzes on the topic you discussed last class, so always review.

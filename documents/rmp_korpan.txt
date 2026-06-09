@@ -1,0 +1,24 @@
+Professor: Raj Korpan
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 2659561)
+Overall Quality: 4.0/5 (4 ratings) | Would take again: 80% | Level of Difficulty: 2.8
+
+Review 1
+Course: CSCI150 | Date: June 2, 2026 | Quality: 3.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: C | Tags: Clear grading criteria, Lots of homework
+Fair grade distribution: 55% from all the tests combined while the rest is from class opening sheets and homework. He's good at explaining the material too. Only complaint is there are too many things to learn and the course is very rushed, around 100+ slides most lectures. His exam reviews could also be better because problems on actual tests are way harder.
+
+Review 2
+Course: CSCI499 | Date: May 27, 2025 | Quality: 5.0 | Difficulty: 2.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Tags: Participation matters, Group projects, Gives good feedback
+Just make sure you stay on top of your project and attend class. Raj was pretty cool and gave me less stress than most of the other CS professors at Hunter.
+
+Review 3
+Course: CSCI499 | Date: November 10, 2023 | Quality: 2.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Tags: Tough grader, Group projects, Lots of homework
+Beware! He does not let you pick groups, gives individual assignments, and grades presentations very harshly. If you are not within 10 seconds of the presentation time limit, even if you are early, you will lose a lot of points. I just want to graduate.
+
+Review 4
+Course: CS201 | Date: December 17, 2021 | Quality: 4.0 | Difficulty: 3.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A- | Textbook: No | Tags: Gives good feedback, Lecture heavy, Caring
+He's a nice person that tries to liven up the classroom. If you raise your hand then he will come over and help you with anything you need. Gives good advice and help without straight up giving the answers. If you pay enough attention to the lectures then you'll easily pass.
+
+Review 5
+Course: CSCI499 | Date: December 24, 2020 | Quality: 5.0 | Difficulty: 2.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: No | Tags: Gives good feedback, Accessible outside class, Participation matters
+He is a great professor, very educational. He is a fair grader, and he is always open to giving feedback on projects or guiding groups.

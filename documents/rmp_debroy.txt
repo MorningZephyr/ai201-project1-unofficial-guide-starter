@@ -1,0 +1,24 @@
+Professor: Saptarshi Debroy
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 2220139)
+Overall Quality: 2.9/5 (36 ratings) | Would take again: 50% | Level of Difficulty: 3.6
+
+Review 1
+Course: CSCI340 | Date: January 4, 2025 | Quality: 4.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: B+ | Textbook: Yes | Tags: Lots of homework, Beware of pop quizzes, Lecture heavy
+Debroy is an excellent teacher, although he expects us to be too reliant on the slides. Also, too many pop quizzes that are backlogged at the end. His test questions are tough, but the grading is lenient. Overall, a decent semester. Travels too much, resulting in missed lectures. He did provide prerecorded lectures, but those were past recordings.
+
+Review 2
+Course: CS340 | Date: December 30, 2024 | Quality: 1.0 | Difficulty: 3.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: B+ | Textbook: Yes
+Slides are bad and difficult to understand. Cancelled a third of the lectures. Quizzes contain material not discussed in class.
+
+Review 3
+Course: CSCI34000 | Date: December 28, 2024 | Quality: 4.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Tags: Clear grading criteria, Beware of pop quizzes, Lecture heavy
+Professor Debroy's exams are fair and directly based on homework and quizzes. Pop quizzes can be a bit annoying and are worth 30% of the entire grade. However, a score of 55 is a C in his class, which helps compensate for poor performance on quizzes.
+
+Review 4
+Course: CS340 | Date: December 25, 2024 | Quality: 2.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: A | Tags: Clear grading criteria, Beware of pop quizzes, Test heavy
+The homework and exams were actually pretty fair and graded very leniently. However, the quizzes were downright hellish. He would test on content we learned last class or even during the current class. They were all multiple choice but had multiple answers with no partial credit. The exams are based heavily on the quizzes and homework, and he technically does curve.
+
+Review 5
+Course: CS340 | Date: December 19, 2024 | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes
+The best example of this department failing its students. Will rush topics just to have quizzes. Gave online lectures outside of regular meeting times and offered little examples to apply what was taught. Need to aggressively review from day one or else you're clipped. Resort to homework and quizzes for exam review.

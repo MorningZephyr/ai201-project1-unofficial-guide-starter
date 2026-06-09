@@ -1,0 +1,24 @@
+Professor: Susan Epstein
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 192300)
+Overall Quality: 2.1/5 (93 ratings) | Would take again: 16% | Level of Difficulty: 4.4
+
+Review 1
+Course: CSCI353 | Date: May 28, 2026 | Quality: 5.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes | Tags: Tough grader, Amazing lectures, Inspirational
+I learned more in this course than in any other CS class. One of the best professors at Hunter College. She never misses her lectures. She provides excellent supplemental materials. The workload is heavy, but it is worth the effort. Highly recommended for students who take CS seriously and are ready to work.
+
+Review 2
+Course: CSCI150 | Date: April 29, 2026 | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Mandatory | Grade: B- | Textbook: Yes | Tags: Tough grader, Get ready to read, Lots of homework
+She is really picky on how you do stuff. Don't take her.
+
+Review 3
+Course: CSCI150 | Date: January 22, 2026 | Quality: 1.0 | Difficulty: 5.0 | For Credit: Yes | Attendance: Mandatory | Tags: Tough grader, Participation matters, Lots of homework
+Lots of homework and very demanding.
+
+Review 4
+Course: CS353 | Date: January 12, 2026 | Quality: 1.0 | Difficulty: 2.0 | For Credit: Yes | Attendance: Not Mandatory | Grade: Drop/Withdrawal
+Did not enjoy the machine learning course.
+
+Review 5
+Course: CSCI150 | Date: December 30, 2025 | Quality: 1.0 | Difficulty: 4.0 | For Credit: Yes | Attendance: Mandatory | Grade: C | Textbook: Yes | Tags: Tough grader, Lots of homework, Lecture heavy
+She is smart, but can't teach. Lots of homework without a clear rubric. The undergraduate TAs aren't helpful and most TAs have no clue, only a handful are helpful. The slides contain mistakes and are dense with math. Take her only so that you can appreciate the best.

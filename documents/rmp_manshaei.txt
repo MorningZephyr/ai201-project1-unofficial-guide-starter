@@ -1,0 +1,16 @@
+Professor: Mohammad Manshaei
+Department: Computer Science, Hunter College
+Source: RateMyProfessors (professor ID 3066287)
+Overall Quality: 4.3/5 (3 ratings) | Would take again: 100% | Level of Difficulty: 2.7
+
+Review 1
+Course: CSC335 | Date: January 26, 2026 | Quality: 4.0 | Difficulty: 3.0 | For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B+ | Textbook: Yes | Tags: Extra credit, Clear grading criteria, Test heavy
+One of the better CS profs at Hunter. His tests are different than 135 and 235, which made the test average low. But they aren't that hard, just heavily conceptual instead of testing ability to write code. To make up for this he curved the final grade a lot. Few projects and homework, and he gave quizzes for extra credit. Many opportunities to get a good grade.
+
+Review 2
+Course: CSC335 | Date: December 26, 2025 | Quality: 4.0 | Difficulty: 2.0 | For Credit: Yes | Would Take Again: Yes | Textbook: Yes | Tags: Amazing lectures, Respected
+He's not a bad professor. I enjoyed his lectures; he provides examples or analogies to understand the topic. He respects his students and responds to emails as soon as he can. He has minor hiccups where he doesn't grade assignments or exams on time.
+
+Review 3
+Course: CSCI49381 | Date: December 27, 2024 | Quality: 5.0 | Difficulty: 3.0 | For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: C+ | Textbook: Yes | Tags: Group projects, Clear grading criteria, Accessible outside class
+Professor Manshaei is a knowledgeable professor. He has great knowledge of cyber security. He is a master in encryption, blockchain, and cryptography. He also teaches bitcoin, which was a great topic. Learned a lot and enjoyed the class. Wish I focused more on this class but had a lot of hard classes so wasn't able to.
